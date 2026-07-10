@@ -117,3 +117,26 @@ h2 {
     color: #707174;
     width: 150px;
 }
+
+.section-three {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-grow: 1;
+    background-color: #e5e7eb;
+    padding: 24px 20%;
+}
+
+.quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.thor {
+    text-align: right;
+    font-weight: bold;
+    align-self: end;
+    padding-right: 48px;
+}
