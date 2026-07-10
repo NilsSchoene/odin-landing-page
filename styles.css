@@ -76,3 +76,44 @@ button {
     align-items: center;
     height: 200px;
 }
+
+.section-two {
+    flex-grow: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+}
+
+h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    margin: 0;
+}
+
+.images {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 48px;
+}
+
+.image-and-caption {
+    width: 156px;
+}
+
+.square-img {
+    width: 150px;
+    height: 150px;
+    border: 3px solid #3882f6;
+    border-radius: 12px;
+    margin-bottom: 8px;
+}
+
+.caption{
+    text-align: center;
+    color: #707174;
+    width: 150px;
+}
