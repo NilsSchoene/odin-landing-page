@@ -175,3 +175,12 @@ h3 {
 .btn-section-four {
     border: 2px solid #f9faf8;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e5e7eb;
+    background-color: #1f2937;
+    height: 75px;
+}
